@@ -1,0 +1,5 @@
+print("Welcome")
+print("You have to work hard enough to reach your goal.)
+print("I belive that i am in the way to reach my goal.I know everyone is already get their job,but i am not going to compare me with them.because their route is different and mine is diffrent.)
+print("I always belive in me")
+print("I alwaqys belive in god,anjaneya")
